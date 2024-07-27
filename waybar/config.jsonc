@@ -9,18 +9,18 @@
     "modules-left": [
         "hyprland/workspaces",
         "hyprland/mode",
+	"temperature",
+	"hyprland/language",
+	"pulseaudio",
         "hyprland/scratchpad"
     ],
     "modules-center": [
         "hyprland/window"
     ],
     "modules-right": [
-        "pulseaudio",
         "network",
         "memory",
-        "temperature",
         "backlight",
-        "hyprland/language",
         "battery",
         "clock",
         "tray",
